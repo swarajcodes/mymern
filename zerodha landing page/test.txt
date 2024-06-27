@@ -1,0 +1,19 @@
+<html>
+    <div>
+      hello
+    </div>
+    <div>
+      takes the full width as a division.it overflows and takes the full width
+    </div>
+    <span>
+      span-only as much space needed
+    </span>
+    <img src="landing.png"></img>
+    <center>
+    <a href="https://app.100xdevs.com" target="_blank">go to 100xdevs</a>
+    <button>push me</button>
+    <input type="text">name</input>
+  </center>
+    </html>
+
+

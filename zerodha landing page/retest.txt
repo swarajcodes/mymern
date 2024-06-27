@@ -1,0 +1,23 @@
+it lets you position things
+normal styling and customizations
+
+style attribute has color ,background wagera wagera
+
+<h1 style="color: green; background-color: red;"> TEST CSS</h1>
+
+<div>
+  <h2 style="border: 2px dotted black; border-radius: 10px; background-color: aqua;">
+    border radius check
+    solid/dotted borders
+  </h2>
+  <div style="background-color: blue; padding: 10px; margin: 10px; box-shadow: 10px 10px 10px 1px;">
+    padding check
+    margin check
+  </div>
+</div>
+
+flexbox ...the child divs appear horizontally
+attribute display flexbox
+          justify content start by default
+          read flexbox myself
+          
